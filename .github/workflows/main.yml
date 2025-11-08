@@ -1,0 +1,6 @@
+name: student management workflow
+
+on:
+ push:
+   brabches:['main']
+   
